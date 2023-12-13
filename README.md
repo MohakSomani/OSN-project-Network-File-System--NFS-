@@ -8,7 +8,7 @@ The project aims to implement a distributed file system from scratch, inspired b
 - **Roll No :**  2022101088
 - **GitHub UserID :** MohakSomani
 - **Email :** mohak.somani@students.iiit.ac.in
-- 
+  
 ### 2. Prakhar Singhal
 - **Roll No :** 2022111025
 - **GitHub UserID :** legend479
