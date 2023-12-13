@@ -1,0 +1,12 @@
+To Do list:
+1. Setup connection with ~~storage server~~ and client
+2. Implement Dyanmic Network Access for storage servers and client
+3. Handle incoming requests from client
+4. Return appropriate response to client ( including error code )
+6. Implement a simple LRU cache for client
+7. Simple Data structure for search for file paths
+8. Bookkeeping of all commands and inputs from client as well as storage server
+
+>> Memory Leaks
+>> server disconnection seg fault (demounting trie problems)
+>> ss create delete issue

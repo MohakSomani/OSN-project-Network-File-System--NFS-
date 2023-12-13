@@ -1,0 +1,16 @@
+https://stackoverflow.com/questions/36622823/detect-a-non-gracefull-disconnect-in-c-sharp
+https://stackoverflow.com/questions/21197977/how-can-i-prevent-scanf-to-wait-forever-for-an-input-character
+https://stackoverflow.com/questions/2333400/what-can-be-the-reasons-of-connection-refused-errors
+https://stackoverflow.com/questions/1579721/why-are-5381-and-33-so-important-in-the-djb2-algorithm
+https://stackoverflow.com/questions/38815832/how-to-check-if-a-tcp-connection-was-closed-by-peer-gracefully-or-not-without-rehttps://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a
+https://linux.die.net/man/2/poll
+https://chat.openai.com/share/2dbaf16e-8e4c-4e5a-a752-4f36e8a66af9
+https://linux.die.net/man/2/recv
+https://stackoverflow.com/questions/9167752/how-does-the-poll-function-work-in-c
+https://en.wikipedia.org/wiki/Jenkins_hash_function
+
+
+
+https://karthikv1392.github.io/cs3301_osn/course_policy/
+https://hackmd.io/XTGbmvj6SAuxiJdeBmV68A
+

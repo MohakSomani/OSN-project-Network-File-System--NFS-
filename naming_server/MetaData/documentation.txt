@@ -1,0 +1,20 @@
+Naming Server employees MutliThreading to create Seperate threads to handle Clients as well as 
+Storage Servers which are selected from Thread pool of fixed size(to improve performance)
+
+Both Client Accpetor and Storage Server Accpetor are running on different ports and are running
+dynamically so that mutiple clients and storage servers can join it at any time. These threads
+accept incoming connections and create new threads to handle them.
+
+Client Handler thread provides an abstraction to handle all the requests from a client and 
+sends back the apt response to the client. The request are preprocessed and then stashed in 
+a global request array. The request array has a maximum size to prevent congestion. The request
+array is a blocking queue and hence the client handler thread will wait if the request array is
+full. 
+
+The request array is processed by the main thread which is the Naming Server thread. The Naming
+Server thread will process the request array and send the request to the appropriate storage
+server. The Naming Server thread will also send the response back to the client. 
+
+
+Information:
+Server --> Client

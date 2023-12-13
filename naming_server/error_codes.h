@@ -1,0 +1,8 @@
+#define SUCCESS 0
+#define PATH_NOT_FOUND 201
+#define CMD_NOT_FOUND 202
+#define TRNSFR_ERROR 203
+#define TRNSFR_IN_PROGRESS 0
+#define REQ_FWD_ERROR 204
+#define REQ_FWD_SUCCESS 0
+#define MOUNT_DEL 205
