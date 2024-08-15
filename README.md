@@ -2,6 +2,7 @@
 
 The project aims to implement a distributed file system from scratch, inspired by the structure of a Network File System (NFS). Comprising clients, a Naming Server (NM), and Storage Servers (SS), the system orchestrates seamless file interactions across a network. The NM serves as the directory service, efficiently directing clients to the specific SS where requested files reside. Storage Servers manage the storage, responding to commands from the NM and clients, supporting file operations such as reading, writing, and deletion. The system is designed to accommodate concurrent client access, efficient search mechanisms, error handling, and features like redundancy and replication for fault tolerance. With a focus on modularity and early planning, the project encourages the team to divide tasks, define calls, and make necessary assumptions to deliver a well-organized and functional distributed file system.
 
+[Demo Video](https://youtu.be/9tS0nq95Q9c?si=U3YwADUZEA0_jOcF)
 # Contributors
 
 ### 1. Mohak Somani
